@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Rodrigues</h1>
 <h3 align="center">A passionate frontend developer from Miguelópolis, Brazil</h3>
 
-- 🌱 I'm currently studying **Internet Computer Technician - at Etec laurindo alves de queiroz **
+- 🌱 I'm currently studying **Internet Computer Technician - at Etec laurindo alves de queiroz**
 
 
 <h3 align="left">Languages and Tools:</h3>
