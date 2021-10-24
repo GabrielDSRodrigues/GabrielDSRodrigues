@@ -1,4 +1,3 @@
-
 <div align="center">
   <img width="430px" src="https://github.com/GabrielDSRodrigues/GabrielDSRodrigues/blob/main/title.png">
   <br>
