@@ -42,3 +42,9 @@
 <p>Banco de Dados</p>
 
 ![my sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+<div align="right">
+  <img width="500px" src="https://github.com/GabrielDSRodrigues/GabrielDSRodrigues/blob/main/ada.png">
+</div>
