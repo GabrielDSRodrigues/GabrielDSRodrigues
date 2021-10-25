@@ -1,7 +1,4 @@
 <div align="center">
-  <img width="430px" src="https://github.com/GabrielDSRodrigues/GabrielDSRodrigues/blob/main/title.png">
-  <br>
-  <br>
   <img width="39%" height="140px" src="https://github.com/GabrielDSRodrigues/GabrielDSRodrigues/blob/main/avento.gif"> <img width="60%" height="140px" src="https://github-readme-stats.vercel.app/api?username=GabrielDSRodrigues&bg_color=30,001B27,01061C&title_color=fff&text_color=fff&hide_border=true&border_radius=0">
 </div>
 
