@@ -1,5 +1,5 @@
-<div align="center">
-  <img width="39%" height="140px" src="https://github.com/GabrielDSRodrigues/GabrielDSRodrigues/blob/main/avento.gif"> <img width="60%" height="140px" src="https://github-readme-stats.vercel.app/api?username=GabrielDSRodrigues&bg_color=30,001B27,01061C&title_color=fff&text_color=fff&hide_border=true&border_radius=0">
+<div align="right">
+  <!--<img width="39%" height="140px" src="https://github.com/GabrielDSRodrigues/GabrielDSRodrigues/blob/main/avento.gif">--><img width="500px" src="https://github-readme-stats.vercel.app/api?username=GabrielDSRodrigues&bg_color=30,001B27,01061C&title_color=fff&text_color=fff&hide_border=true&border_radius=0">
 </div>
 
 <br>
@@ -27,6 +27,14 @@
 ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![REPLIT](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+
+
+<p>Aprendendo</p>
+
+![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REACTJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 
