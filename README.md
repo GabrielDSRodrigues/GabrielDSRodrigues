@@ -1,6 +1,3 @@
-
-<img width="500px" src="https://count.getloli.com/get/@GabrielDSRodrigues?theme=rule34"/>
-
 <div align="right">
   <!--<img width="39%" height="140px" src="https://github.com/GabrielDSRodrigues/GabrielDSRodrigues/blob/main/avento.gif">--><img width="500px" src="https://github-readme-stats.vercel.app/api?username=GabrielDSRodrigues&bg_color=30,001B27,01061C&title_color=fff&text_color=fff&hide_border=true&border_radius=0">
 </div>
